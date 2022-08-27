@@ -13,7 +13,7 @@
 
         $nome = "Caio";
         $idade = 16;
-        $peso = 49;
+        $peso = 50;
         echo "Olá mundo!" . "<br>";
         echo "Nome: " . $nome . "<br>";
         echo "Idade: " . $idade . " anos <br>";

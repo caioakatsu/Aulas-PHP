@@ -1,0 +1,10 @@
+body {
+    background-color: #70adf3;
+}
+
+.dimensao {
+    width:200px;
+    height:200px;
+    display: flex;
+    flex-direction: row-reverse;
+}
